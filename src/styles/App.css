@@ -1,1 +1,10 @@
+#barOuter{
+    width: 500px;
+    height: 40px;
+    background-color: rgb(219, 219, 219);
+}
 
+#barInner{
+    height: 40px;
+    background-color: blue;
+}
